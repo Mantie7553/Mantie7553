@@ -1,16 +1,7 @@
-## Hi there 👋
+# Jaden Mantie
 
-<!--
-**Mantie7553/Mantie7553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent Computer Systems Technology grad from Sask Polytech who enjoys building things that make life simpler.
+Focused on finding a developer/analyst role.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning how to use GitHub
-- 🌱 I’m currently learning what I can do to make my projects public
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MediaHub** *(Go, React, PostgreSQL)*: A self hosted media management system made to bring all of my media consumption under a single platform
+- **Manga Manager** *(Python, Vue, SQLite)*: A simple tracking system for when I want to add to my collection and not waste money on duplicates
